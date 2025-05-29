@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Цветан\\Desktop\\Cvetan\\Програмиране\\GitHub Repo C# Fundamentals\\Programing-Fundametals-C-\\BasicSyntax,ConditionalStatementsAndLoopsf\\04. Back In 30 Minutes\\04. Back In 30 Minutes.csproj",
+      "projectUniqueName": "C:\\Users\\Цветан\\Desktop\\Cvetan\\Програмиране\\Нова папка\\C-_Fundamentals\\BasicSyntax,ConditionalStatementsAndLoopsf\\04. Back In 30 Minutes\\04. Back In 30 Minutes.csproj",
       "projectName": "04. Back In 30 Minutes",
-      "projectPath": "C:\\Users\\Цветан\\Desktop\\Cvetan\\Програмиране\\GitHub Repo C# Fundamentals\\Programing-Fundametals-C-\\BasicSyntax,ConditionalStatementsAndLoopsf\\04. Back In 30 Minutes\\04. Back In 30 Minutes.csproj",
+      "projectPath": "C:\\Users\\Цветан\\Desktop\\Cvetan\\Програмиране\\Нова папка\\C-_Fundamentals\\BasicSyntax,ConditionalStatementsAndLoopsf\\04. Back In 30 Minutes\\04. Back In 30 Minutes.csproj",
       "packagesPath": "C:\\Users\\Цветан\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Цветан\\Desktop\\Cvetan\\Програмиране\\GitHub Repo C# Fundamentals\\Programing-Fundametals-C-\\BasicSyntax,ConditionalStatementsAndLoopsf\\04. Back In 30 Minutes\\obj\\",
+      "outputPath": "C:\\Users\\Цветан\\Desktop\\Cvetan\\Програмиране\\Нова папка\\C-_Fundamentals\\BasicSyntax,ConditionalStatementsAndLoopsf\\04. Back In 30 Minutes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

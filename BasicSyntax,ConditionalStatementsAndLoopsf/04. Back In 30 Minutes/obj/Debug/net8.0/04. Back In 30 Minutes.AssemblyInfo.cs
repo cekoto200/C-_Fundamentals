@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04. Back In 30 Minutes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a1ceecca6b9de38a1d4e2af3bf58c4905788003")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+809f71d7a7fc051639b6f80fd41245b63c1ac5b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("04. Back In 30 Minutes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04. Back In 30 Minutes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
