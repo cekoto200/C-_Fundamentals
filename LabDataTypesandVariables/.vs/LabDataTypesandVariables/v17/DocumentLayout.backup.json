@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\Desktop\\Cvetan\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\C-_Fundamentals\\LabDataTypesandVariables\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22F23F2C-8F8E-4AF7-B2D3-B096496965DF}|Convert Meters to Kilometers\\Convert Meters to Kilometers.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\labdatatypesandvariables\\convert meters to kilometers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22F23F2C-8F8E-4AF7-B2D3-B096496965DF}|Convert Meters to Kilometers\\Convert Meters to Kilometers.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\desktop\\cvetan\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\c-_fundamentals\\labdatatypesandvariables\\convert meters to kilometers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22F23F2C-8F8E-4AF7-B2D3-B096496965DF}|Convert Meters to Kilometers\\Convert Meters to Kilometers.csproj|solutionrelative:convert meters to kilometers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,15 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\Convert Meters to Kilometers\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\Desktop\\Cvetan\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\C-_Fundamentals\\LabDataTypesandVariables\\Convert Meters to Kilometers\\Program.cs",
               "RelativeDocumentMoniker": "Convert Meters to Kilometers\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\Convert Meters to Kilometers\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\Desktop\\Cvetan\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u043D\u0435\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\C-_Fundamentals\\LabDataTypesandVariables\\Convert Meters to Kilometers\\Program.cs",
               "RelativeToolTip": "Convert Meters to Kilometers\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
